@@ -12,10 +12,7 @@ Skills: Python / Java / Databases / HTML / CSS / MySQL / C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasudhakar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshithasudhakar)  
-
 ![GitHub metrics](https://metrics.lecoq.io/harshithasudhakar)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=harshithasudhakar)  
 
-![Profile views](https://gpvc.arturio.dev/harshithasudhakar)  
