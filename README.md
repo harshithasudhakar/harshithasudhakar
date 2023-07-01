@@ -25,13 +25,8 @@ Let's create innovative solutions and grow together!
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithasudhakar&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=harshithasudhakar&theme=gruvbox&border_radius=4.5) -->
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=harshithasudhakar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasudhakar)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 😎 My Handles
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harshithasudhakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harshitha-sudhakar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@harshithasudhakar)
+YouTube: https://youtube.com/@harshithasudhakar
 
+LinkedIn: https://www.linkedin.com/in/harshitha-sudhakar/
