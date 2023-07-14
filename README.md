@@ -21,10 +21,6 @@ Let's create innovative solutions and grow together!
 
 - 🌱 I’m currently learning DSA
 
-### 📊 Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithasudhakar&show_icons=true&theme=gruvbox)
-
 ### 😎 My Handles
 
 YouTube: https://youtube.com/@harshithasudhakar
