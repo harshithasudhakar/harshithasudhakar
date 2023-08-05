@@ -2,7 +2,7 @@
 
 Hi there! I'm Harshitha, a sophomore with a fervent passion for back-end development and open source.
 
-As a devout believer in the power of open source, I'm eager to forge connections with like-minded individuals in the community and explore new fields. I relish opportunities to collaborate and learn from organizations and individuals, honing my skills in the technology industry.
+As a devout believer in the power of open source, I'm eager to forge connections with like-minded individuals in the community and explore new fields. I relish opportunities to collaborate, to learn from organizations and individuals and honing my skills in the technology industry.
 
 Let's create innovative solutions and grow together!
 
