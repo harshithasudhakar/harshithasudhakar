@@ -1,4 +1,4 @@
-### 😁 About Me
+### 😁 About Me ![](https://komarev.com/ghpvc/?username=harshithasudhakar&style=flat-square)
 
 Hi there! I'm Harshitha, a sophomore with a fervent passion for back-end development and open source.
 
