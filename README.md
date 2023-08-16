@@ -1,11 +1,10 @@
-### 😁 About Me ![](https://komarev.com/ghpvc/?username=harshithasudhakar&style=flat-square)
+### 😁 About Me 
 
 Hi there! I'm Harshitha, a sophomore with a fervent passion for back-end development and open source.
 
 As a devout believer in the power of open source, I'm eager to forge connections with like-minded individuals in the community and explore new fields. I relish opportunities to collaborate, to learn from organizations and individuals and honing my skills in the technology industry.
 
 Let's create innovative solutions and grow together!
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -26,3 +25,5 @@ Let's create innovative solutions and grow together!
 YouTube: https://youtube.com/@harshithasudhakar
 
 LinkedIn: https://www.linkedin.com/in/harshitha-sudhakar/
+
+![](https://komarev.com/ghpvc/?username=harshithasudhakar&label=PROFILE+VIEWS&style=flat-square)
