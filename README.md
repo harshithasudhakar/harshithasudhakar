@@ -18,7 +18,7 @@ Let's create innovative solutions and grow together!
 
 ### 🛠️ Currently Working On
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA, ML
 
 ### 😎 My Handles
 
