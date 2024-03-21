@@ -18,7 +18,7 @@ Let's create innovative solutions and grow together!
 
 ### 🛠️ Currently Working On
 
-- 🌱 I’m currently learning DSA, Microservices, AI & ML.
+- 🌱 I’m currently learning DSA, AI & ML.
 
 ### 😎 My Handles
 
